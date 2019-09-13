@@ -1,0 +1,6 @@
+# Terraform
+/.terraform
+/*.tfstate*
+
+/.idea
+/production-kuet-alumni-tf-key.json
